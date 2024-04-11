@@ -132,7 +132,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #555555;width: 73.268%;" class="progress-item"></span><span style="background-color: #89e051;width: 17.979%;" class="progress-item"></span><span style="background-color: #427819;width: 6.600%;" class="progress-item"></span><span style="background-color: #3572A5;width: 2.153%;" class="progress-item"></span>
+<span style="background-color: #555555;width: 73.319%;" class="progress-item"></span><span style="background-color: #89e051;width: 17.945%;" class="progress-item"></span><span style="background-color: #427819;width: 6.588%;" class="progress-item"></span><span style="background-color: #3572A5;width: 2.149%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -144,7 +144,7 @@ div.ellipsis {
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">C</span>
-<span class="percent">73.27%</span>
+<span class="percent">73.32%</span>
 </li>
 
 
@@ -153,7 +153,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Shell</span>
-<span class="percent">17.98%</span>
+<span class="percent">17.94%</span>
 </li>
 
 
@@ -162,7 +162,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Makefile</span>
-<span class="percent">6.60%</span>
+<span class="percent">6.59%</span>
 </li>
 
 
